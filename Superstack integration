@@ -1,0 +1,4 @@
+## SuperStacks Campaign
+- **Overview**: SuperStacks (April 16–June 30, 2025) incentivizes interoperable TVL across Superchain networks, including Unichain. Users earn XP for bridging assets (e.g., USDT0) and providing liquidity.
+- **Unichain Role**: Check if weETH is eligible for SuperStacks pools on Unichain via [Layer3](https://app.layer3.xyz).
+- **Scripts**: Add `scripts/superstacks_bridge.js` to automate asset bridging to Unichain.
