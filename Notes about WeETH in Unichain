@@ -1,0 +1,8 @@
+Unichain Overview: Unichain is a DeFi-focused L2 launched by Uniswap Labs on February 11, 2025, built on the Optimism OP Stack. It offers 1-second block times, 95% lower fees than Ethereum, and TEE-based block building. It’s part of the Superchain, supporting cross-chain liquidity and decentralized validation (UVN).
+
+weETH Context: weETH is Ether.fi’s liquid staking token (Ethereum contract: 0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee). No confirmed Unichain deployment was found, but Unichain’s ERC-20 compatibility suggests potential support. Check Ether.fi or Unichain’s block explorer for updates.
+
+SuperStacks Relevance: SuperStacks (April 16–June 30, 2025) rewards cross-chain DeFi activity on Superchain networks. If weETH is supported on Unichain, it could be eligible for SuperStacks pools, enhancing the repository’s relevance.
+
+Security Note: Avoid sharing private keys or sensitive data in the repository. Verify contract addresses from official sources to prevent scams.
+
