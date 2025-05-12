@@ -1,0 +1,12 @@
+Repository Focus: Decide if the repository is for documentation (e.g., Unichain guides, weETH tracking), development (e.g., token deployment), or both. This shapes content.
+
+Community Engagement: Share the repository on Unichain’s Discord (#unichain channel) or X to attract contributors. Follow @Unichain
+ for updates.
+
+Further Steps:
+Run a Unichain node using Uniswap/unichain-node to test deployments.
+
+Use CoinFactory for easy ERC-20 deployment on Unichain Sepolia.
+
+Monitor Ether.fi’s announcements for weETH on Unichain.
+
