@@ -1,0 +1,11 @@
+require("@nomiclabs/hardhat-waffle");
+
+module.exports = {
+  solidity: "0.8.0",
+  networks: {
+    unichain_sepolia: {
+      url: "https://sepolia.unichain.org", // Replace with actual RPC URL
+      accounts: ["YOUR_PRIVATE_KEY"] // Add your wallet private key securely
+    }
+  }
+};
