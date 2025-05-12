@@ -1,0 +1,16 @@
+Since you’re interested in weETH, include a script to deploy an ERC-20 token on Unichain’s testnet (e.g., Unichain Sepolia). Use the approach from zunxbt/unichain as a reference.
+
+Create a folder named contracts and add a basic ERC-20 contract (e.g., weETH.sol):
+solidity
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+
+contract weETH is ERC20 {
+    constructor(uint256 initialSupply) ERC20("Wrapped eETH", "weETH") {
+        _mint(msg.sender, initialSupply);
+    }
+}
+
